@@ -11,7 +11,7 @@ export default function Home() {
         />
       </Helmet>
 
-      <h1>Welcome to Visi00on Workspaces</h1>
+      <h1>Welcome to Visi00on Workspaces1</h1>
     </>
   );
 }
